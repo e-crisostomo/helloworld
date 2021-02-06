@@ -14,7 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-#this is from laptop
+
 #this is from laptop again.
 #this is a local edit
 #This is from local edit 2
